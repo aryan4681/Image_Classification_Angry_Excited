@@ -10,7 +10,8 @@ The CNN model is implemented in Python using TensorFlow. It consists of several 
 The dataset comprises two sets of images: 
 - Images of excited people.
 - Images of angry people.
-Each image has been preprocessed and labeled accordingly.
+
+  Each image has been preprocessed and labeled accordingly.
 
 ## Installation
 To set up your environment to run the code, follow these steps:
